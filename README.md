@@ -50,7 +50,7 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=seoyoung-kim-kr&show_icons=true" width="500" style="border-radius: 10px; margin: 10px;"/>
 </div>
 <div>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=seoyoung-kim-kr&layout=compact" width="500" style="border-radius: 10px; margin: 10px; />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=seoyoung-kim-kr&layout=compact" width="500" style="border-radius: 10px; margin: 10px;" />
 </div>
       
 ---
