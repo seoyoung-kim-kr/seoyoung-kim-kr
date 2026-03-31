@@ -47,14 +47,10 @@
 ## 📊 Stats
 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=seoyoung-kim-kr&show_icons=true&title_color=000000&text_color=000000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoyoung-kim-kr&layout=compact&title_color=000000&text_color=000000" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=seoyoung-kim-kr&show_icons=true" width="500" style="border-radius: 10px; margin: 10px;"/>
 </div>
-
----
-
 <div>
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/seoyoung-kim-kr&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/>
-  </a>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=seoyoung-kim-kr&layout=compact" width="500" style="border-radius: 10px; margin: 10px; />
 </div>
+      
+---
